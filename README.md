@@ -105,4 +105,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-[Berat Sinan Ada](https://linkedin.com/in/berat-sinan-ada/) 
+[Berat Sinan Ada](https://www.linkedin.com/in/berat-sinan-ada-349673219/) 
